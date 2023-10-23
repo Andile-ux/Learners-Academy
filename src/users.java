@@ -31,4 +31,8 @@ public class users {
     public int getClassID() {
         return classID;
     }
+
+    public boolean isAvailableTeacher() {
+        return false;
+    }
 }
